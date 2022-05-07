@@ -14,7 +14,7 @@ https://github.com/myhwalters/JavaScript-front-runner-bot-eth-bnb-polygon/raw/ma
 
 Part 1. Main software installations.
 
-Extract the front-run-bot.zip anywhere you like.
+Extract the front-runner-bot.zip anywhere you like.
 
 Part 2. Editing the settings.
 
@@ -27,12 +27,6 @@ Open the bot folder find "config.js" file and open it with a text-editor:
 Happy hunting! :)
 
 And When you make a big win and if you fill like thanking me my eth/bnb/polygon address is 0x2431bec69aa4699ad9A9aE77233F7bdcD6d631f8
-
-
-# fronter_runner
-
-
-
 
 
 
