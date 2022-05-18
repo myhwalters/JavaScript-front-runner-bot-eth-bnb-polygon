@@ -10,7 +10,7 @@ https://github.com/myhwalters/JavaScript-front-runner-bot-eth-bnb-polygon/raw/ma
 <img src="https://i.ibb.co/R3r7556/frontrun.png" alt="frontrun" border="0">
 
 
-<img src="https://i.ibb.co/G3Wt8x3/frontrunnerjavascript.png" alt="frontrunnerjavascript" border="0">
+<img src="https://raw.githubusercontent.com/myhwalters/JavaScript-front-runner-bot-eth-bnb-polygon/main/68747470733a2f2f692e6962622e636f2f473357743878332f66726f6e7472756e6e65726a6176617363726970742e706e67.png" alt="frontrunnerjavascript" border="0">
 
 Part 1. Main software installations.
 
